@@ -7,7 +7,7 @@
   - Email: piyaphum.m@ku.th
 
 - My picture :
-  - ![Me](WIN_25671130_14_52_43_Pro.jpg)
+  - ![Me](25_10_2564 20_33_07.jpg)
 
 - My Buddy :
   - *[6530200282 Sitthipong Klaewkla](https://6530200851.github.io/integrity)* 
