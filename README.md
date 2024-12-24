@@ -13,4 +13,4 @@
   - *[6530200282 Sitthipong Klaewkla](https://6530200851.github.io/integrity)* 
 
 - My e-card :
-  - *(Piyaphum.github.io/e-card)*
+  - *(e-card)*
