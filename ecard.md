@@ -1,4 +1,4 @@
-![eCard](X'MAS.png)
+![eCard](xmas.png)
 
 [myProfile](https://Piyaphum.github.io)
 Piyaphum.github.io
