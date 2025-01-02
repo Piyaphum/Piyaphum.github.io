@@ -1,6 +1,6 @@
-# Uniqueness
+# **Uniqueness**
 
-## Definition by Uniqueness
+## Definition by [Uniqueness](https://blog.masterdata.co.za/2023/07/11/exploring-the-data-quality-dimension-uniqueness/)
   - Uniqueness, as a data quality dimension, focuses on ensuring that each data element within a dataset is unique and does not contain any duplicate values. It       applies to both individual attributes and entire records.
 
 ## CHAT GPT
