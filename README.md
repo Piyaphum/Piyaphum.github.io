@@ -9,7 +9,7 @@
 - My picture :
   - ![Me](picture/profile.jpg)
 
-- My Buddy :
+- My Buddy (Integrity) :
   - *[6530200282 Sitthipong Klaewkla](https://6530200851.github.io/integrity)* 
 
 - My e-card :
