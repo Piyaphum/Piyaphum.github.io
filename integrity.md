@@ -2,7 +2,7 @@
 
 # Piyaphum-Muetkhambong-6530200282
 
-# Definition
+# (Definition)[https://www.isc2.org/certifications/cissp/cissp-student-glossary#l]
   - Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
 
 # Chat-GPT
@@ -13,8 +13,6 @@
 
 # สรุปด้วยตัวเอง
   - มันคือการรักษาข้อมูลเพื่อให้ข้อมูลมีความน่าเชื่อถือและมีความปลอดภัยในการนำไปใช้
-  - [cissp](https://www.isc2.org/certifications/cissp/cissp-student-glossary#l)
-  - [csrc](https://csrc.nist.gov/glossary/term/integrity)
 
 - ตัวอย่าง Integrity ในชีวิตประจำวัน
   - ระบบรักษาความปลอดภัยในบ้าน (Smart Home):
