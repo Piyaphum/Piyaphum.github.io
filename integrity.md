@@ -2,8 +2,10 @@
 
 # **Piyaphum-Muetkhambong-6530200282**
 
-# [Definition](https://www.isc2.org/certifications/cissp/cissp-student-glossary#l)
+# [Definition : ISC2](https://www.isc2.org/certifications/cissp/cissp-student-glossary#l)
   - Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
+# [Definition : NIST](https://csrc.nist.gov/glossary/term/integrity)
+  - Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.
 
 # Chat-GPT
   - เป็นการป้องกันข้อมูลจากการถูกแก้ไขหรือทำลายโดยไม่ได้รับอนุญาต และยืนยันความถูกต้องและความน่าเชื่อถือของข้อมูล
