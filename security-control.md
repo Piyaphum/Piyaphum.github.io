@@ -1,6 +1,6 @@
 # Security Control
 
-[VAC](picture/VAC.jpg)
+![VAC](picture/VAC.jpg)
 
 # VAC (Valve Anti-Cheat)
   - เป็นระบบป้องกันการโกงที่พัฒนาโดย Valve ใช้ในแพลตฟอร์ม Steam เพื่อตรวจจับและแบนผู้เล่นที่ใช้ซอฟต์แวร์โกงในเกมออนไลน์ เช่น Counter-Strike, Dota 2, Team Fortress 2 เป็นต้น
