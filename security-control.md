@@ -17,5 +17,6 @@
 
 # สรุป
   - Valve Anti-Cheat คือ ซอฟต์แวร์ป้องกันการโกง ที่ทำหน้าที่เป็นเครื่องมือป้องกันทางเทคนิค (Technical Control) และ เชิงป้องกัน (Preventative Function) ช่วยยกระดับความมั่นคงในเกมออนไลน์
-  # เหตุผลที่เป็น Technical Control และ Preventative Function
+  
+# เหตุผลที่เป็น Technical Control และ Preventative Function
   - VAC เป็น "Technical Control" เพราะมันอาศัยซอฟต์แวร์และเทคโนโลยีในการบังคับใช้การป้องกันการโกง และเป็น "Preventative Function" เพราะมันมุ่งเน้นไปที่การป้องกันการโกงก่อนที่มันจะส่งผลกระทบต่อผู้เล่นคนอื่น
