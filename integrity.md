@@ -8,6 +8,7 @@
     - เป็นการป้องกันข้อมูลจากการถูกแก้ไขหรือทำลายโดยไม่ได้รับอนุญาต และยืนยันความถูกต้องและความน่าเชื่อถือของข้อมูล
   ## Gemini
     - การปกป้องข้อมูลไม่ให้ถูกแก้ไข เปลี่ยนแปลง หรือทำลายโดยไม่ได้รับอนุญาต รวมถึงการตรวจสอบยืนยันว่าข้อมูลนั้นเป็นของจริงและมาจากแหล่งที่มาที่ถูกต้อง
+
 # [Definition : NIST](https://csrc.nist.gov/glossary/term/integrity)
   - Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.
   ## ChatGPT
