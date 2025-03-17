@@ -10,7 +10,7 @@
   - ฟังก์ชันของการควบคุม (Control Function): Preventative
 
 # คุณสมบัติสำคัญ
-  = Valve Anti-Cheat จัดอยู่ในประเภท Technical Preventive Control เพราะมีคุณสมบัติดังนี้
+  Valve Anti-Cheat จัดอยู่ในประเภท Technical Preventive Control เพราะมีคุณสมบัติดังนี้
   - ตรวจสอบการใช้งานโปรแกรมที่ไม่พึงประสงค์
   - ยับยั้งการทำงานของซอฟต์แวร์โกง
   - ป้องกันการใช้งานโปรแกรมโกงแบบเรียลไทม์
